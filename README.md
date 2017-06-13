@@ -6,3 +6,4 @@ this repository contains my assignments
 [assignment 4](https://github.com/SusanneEngelen/assignments/blob/master/assignment4.ipynb)
 [assignment 5](https://github.com/SusanneEngelen/assignments/blob/master/assignment5.ipynb)
 [R Exam](https://github.com/SusanneEngelen/assignments/blob/master/OECD_R_exam%20(4).ipynb)
+[Python Exam](https://github.com/SusanneEngelen/assignments/blob/master/Final_Assignment_Python_1_students%20(6).ipynb)
